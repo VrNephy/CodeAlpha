@@ -10,11 +10,6 @@ Ce projet consiste à gérer les interventions des intervenants dans une central
 
 ## *Groupe : Les brancodeurs*
 
-- Alexandre Alleaume
-- Lucas Pisano
-- Yannick Midey
-- Bryan Guillot
-
 ## 🔧*Outils* 
 
 - Système d’exploitation: Windows 10
